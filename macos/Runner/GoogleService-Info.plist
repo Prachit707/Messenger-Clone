@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>707009485155-kiv2s0f8f9ss8tr19qa4mbtv6bl1grnf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.707009485155-kiv2s0f8f9ss8tr19qa4mbtv6bl1grnf</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>707009485155-r03a1fvgm4a35t5gsi5sp3l0hj4nkph0.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCHQ0fAADZNTaKhtDyr1xWUi2x9pWVUa-o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>707009485155</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.messengerClone.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>messengerclone-e7d56</string>
+	<key>STORAGE_BUCKET</key>
+	<string>messengerclone-e7d56.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:707009485155:ios:d4be40ce25ffe3a29b1b56</string>
+</dict>
+</plist>

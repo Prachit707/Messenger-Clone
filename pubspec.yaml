@@ -1,0 +1,28 @@
+name: messenger_clone
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: '>=3.2.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^0.8.4+3 
+  firebase_storage: ^11.6.6
+  firebase_auth: 
+  firebase_core: ^2.25.4
+  google_sign_in:
+  shared_preferences:
+  random_string:
+  cloud_firestore:
+  cupertino_icons: ^1.0.2  # Add the version number here
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true

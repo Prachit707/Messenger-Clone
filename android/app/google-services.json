@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "707009485155",
+    "project_id": "messengerclone-e7d56",
+    "storage_bucket": "messengerclone-e7d56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707009485155:android:2b37fc0e7b3ca0479b1b56",
+        "android_client_info": {
+          "package_name": "com.example.messenger_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707009485155-ktcmd8oadrn65gc30ibp04pvj3o3ctnd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.messenger_clone",
+            "certificate_hash": "2df760c26023ee994d17bd9754dad66350985b9e"
+          }
+        },
+        {
+          "client_id": "707009485155-v09sfr2gneivuvs7fbfci90v6vs45nmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu8OTRNXheb2r5MQS7Sgw_IMq8rYRqIeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707009485155-v09sfr2gneivuvs7fbfci90v6vs45nmh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "707009485155-5iv1lj1rl0r9buv2a4tlncpnhekbc910.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.messengerClone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
